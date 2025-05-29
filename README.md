@@ -23,6 +23,7 @@ Installation
 2.	Install required Libraries
    
      pip install -r requirements.txt
+   
 
 Run the app 
 
